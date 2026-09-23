@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/GitHub-SoulG0707-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SoulG0707&label=Profile%20Views&color=0ea5e9&style=flat-square" />
 
 </div>
 
